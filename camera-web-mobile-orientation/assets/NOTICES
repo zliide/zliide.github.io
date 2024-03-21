@@ -4514,6 +4514,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 camera
+camera_web
 
 Copyright 2013 The Flutter Authors. All rights reserved.
 
@@ -4545,7 +4546,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 camera_android
 camera_avfoundation
 camera_platform_interface
-camera_web
 cross_file
 flutter_plugin_android_lifecycle
 path_provider
